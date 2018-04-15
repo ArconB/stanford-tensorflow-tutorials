@@ -64,7 +64,7 @@ def word2vec(batch_gen):
         # TO DO
 
         
-    # Step 5: define optimizer
+    # Step 5: define optimizer\
     
     # TO DO
 
